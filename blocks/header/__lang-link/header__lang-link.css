@@ -1,0 +1,17 @@
+.header__lang-link {
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header__lang-link:active {
+    text-decoration: underline;
+}
+
+.header__lang-link:last-of-type {
+    margin-left: 18px;
+}

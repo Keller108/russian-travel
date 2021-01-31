@@ -1,0 +1,38 @@
+/* Подключаю общие стили */
+
+@import url("../vendor/normalize.css");
+@import url("../fonts/inter.css");
+@import url("../blocks/body/body.css");
+@import url("../blocks/page/page.css");
+
+/*Подключаю стили navbar*/
+
+@import url("../blocks/header/header.css");
+@import url("../blocks/header/__logo/header__logo.css");
+@import url("../blocks/header/__lang-links-wrapper/header__lang-links-wrapper.css");
+@import url("../blocks/header/__lang-link/header__lang-link.css");
+
+/*Подключаем стили секции lead*/
+
+@import url("../blocks/lead/lead.css");
+@import url("../blocks/lead/__title/lead__title.css");
+@import url("../blocks/lead/__subtitle/lead__subtitle.css");
+@import url("../blocks/lead/__image-wrapper/lead__image-wrapper.css");
+@import url("../blocks/lead/__path/lead__path.css");
+@import url("../blocks/lead/__image/lead__image.css");
+@import url("../blocks/lead/__caption/lead__caption.css");
+
+/*Подключаем стили секции intro*/
+
+@import url("../blocks/intro/intro.css");
+@import url("../blocks/intro/__title/intro__title.css");
+@import url("../blocks/intro/__text/intro__text.css");
+@import url("../blocks/intro/__list/intro__list.css");
+@import url("../blocks/intro/__list-item/intro__list-item.css");
+@import url("../blocks/intro/__list-span/intro__list-span.css");
+
+/*Подключаем стили секции photo-grid*/
+
+@import url("../blocks/");
+@import url("../blocks/photo-grid/photo-grid.css");
+@import url("../blocks/photo-grid/__item/photo-grid__item.css");
