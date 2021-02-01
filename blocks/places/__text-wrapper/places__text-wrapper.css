@@ -1,0 +1,10 @@
+.places__text-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 760px) and (max-width: 945px) {
+    .places__text-wrapper {
+        padding-left: 30px;
+    }
+}
