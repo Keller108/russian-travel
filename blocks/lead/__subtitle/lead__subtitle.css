@@ -9,8 +9,23 @@
     margin-bottom: 64px;
 }
 
-@media screen and (max-width: 1024px) {
+@media (max-width: 1024px) {
     .lead__subtitle {
         margin-bottom: 56px;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 460px) {
+    .lead__subtitle {
+        font-size: 24px;
+        line-height: 28px;
+    }
+}
+
+@media (max-width: 320px) {
+    .lead__subtitle {
+        max-width: 288px;
+        font-size: 16px;
+        line-height: 20px;
     }
 }
