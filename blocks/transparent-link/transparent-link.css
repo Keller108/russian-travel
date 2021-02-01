@@ -1,4 +1,6 @@
 .transparent-link {
+    text-decoration: none;
+    color: white;
     transition: all .3s;
 }
 
