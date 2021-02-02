@@ -1,4 +1,5 @@
 .header__lang-links-wrapper {
+    display: -ms-flex;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
