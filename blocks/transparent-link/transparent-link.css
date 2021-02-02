@@ -1,7 +1,7 @@
 .transparent-link {
-    text-decoration: none;
     color: white;
     transition: all .3s;
+    text-decoration: none;
 }
 
 .transparent-link:hover {
