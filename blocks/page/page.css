@@ -1,11 +1,12 @@
 .page {
     margin: 0 auto;
     padding: 28px 0;
+    overflow: hidden;
 }
 
-@media screen and (max-width: 320px) {
+@media (max-width: 320px) {
     .page {
         padding-top: 16px;
-        padding-bottom: 16px;
+        padding-bottom: 24px;
     }
 }

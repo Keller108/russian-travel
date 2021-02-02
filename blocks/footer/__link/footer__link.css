@@ -11,3 +11,21 @@
 .footer__link:last-of-type {
     margin-right: 0;
 }
+
+@media (min-width: 461px) and (max-width: 690) {
+    .footer__link {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 280px) and (max-width: 460px) {
+    .footer__link {
+        font-size: 24px;
+        line-height: 24px;
+        margin-right: 0;
+        margin-bottom: 32px;
+    }
+    .footer__link:last-of-type {
+        margin-bottom: 48px;
+    }
+}
