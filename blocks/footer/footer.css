@@ -1,5 +1,6 @@
 .footer {
     width: 90%;
+    display: -webkit-box;
     display: -ms-flex;
     display: flex;
     flex-direction: row;

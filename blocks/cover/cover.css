@@ -1,4 +1,6 @@
 .cover {
+    display: -webkit-box;
+    display: -ms-flex;
     display: flex;
     flex-direction: column;
     justify-content: center;

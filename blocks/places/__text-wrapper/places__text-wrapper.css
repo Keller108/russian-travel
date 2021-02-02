@@ -1,4 +1,6 @@
 .places__text-wrapper {
+    display: -webkit-box;
+    display: -ms-flex;
     display: flex;
     flex-direction: column;
 }
