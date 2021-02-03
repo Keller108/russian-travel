@@ -1,9 +1,9 @@
 /* Подключаю общие стили */
 
 @import url("../vendor/normalize.css");
-@import url("../vendor/fonts/inter/inter.css");
 @import url("../blocks/body/body.css");
 @import url("../blocks/page/page.css");
+@import url("../vendor/fonts/inter/inter.css");
 @import url("../blocks/transparent-link/transparent-link.css");
 
 /*Подключаю стили header*/
