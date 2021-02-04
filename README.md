@@ -14,7 +14,7 @@
 * BEM Nested (file order)
 
 **Ссылка на опубликованный проект в gh-pages**
-https://keller108.github.io/russian-travel/л
+https://keller108.github.io/russian-travel/
 
 **Описание проекта**
 
