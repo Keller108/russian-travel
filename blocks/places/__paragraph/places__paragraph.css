@@ -9,13 +9,14 @@
 
 @media (max-width: 1024px) {
     .places__paragraph {
-        font-size: 16px;
+        font-size: 18px;
         margin-bottom: 27px;
     }
 }
 
 @media (max-width: 768px) {
     .places__paragraph {
+        font-size: 16px;
         margin-bottom: 25px;
     }
 }

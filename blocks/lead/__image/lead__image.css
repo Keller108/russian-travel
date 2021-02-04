@@ -1,21 +1,5 @@
 .lead__image {
-    width: 984px;
-    height: 615px;
-    margin: 0 auto;
-    margin-bottom: 8px;
+    width: 100%;
+    height: auto;
     object-fit: cover;
-}
-
-@media (max-width: 1024px) {
-    .lead__image {
-        width: 928px;
-        height: 580px;
-    }
-}
-
-@media (min-width: 280px) and (max-width: 1023px) {
-    .lead__image {
-        width: 100%;
-        height: auto;
-    }
 }

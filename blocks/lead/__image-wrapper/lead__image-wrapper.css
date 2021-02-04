@@ -1,0 +1,33 @@
+.lead__image-wrapper {
+    max-width: 984px;
+    height: 615px;
+    box-sizing: border-box;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    padding: 0;
+}
+
+@media (max-width: 1024px) {
+    .lead__image-wrapper {
+        width: 928px;
+        height: 580px;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 1023px) {
+    .lead__image-wrapper {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 320px) {
+    .lead__image-wrapper {
+        width: 320px;
+        height: 200px;
+    }
+}
