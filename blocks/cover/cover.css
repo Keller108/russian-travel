@@ -1,5 +1,4 @@
 .cover {
-    width: 90%;
     max-width: 1184px;
     min-height: 740px;
     background-image: linear-gradient(linear, left top, left bottom, from(rgba(42, 44, 47, 0.3)), to(rgba(42, 44, 47, 0.3))), url(../../images/cover-trains.jpg);

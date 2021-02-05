@@ -22,7 +22,7 @@
     }
 }
 
-@media (min-width: 280px) and (max-width: 660px) {
+@media (max-width: 660px) {
     .footer {
         max-width: 100%;
         padding: 0;

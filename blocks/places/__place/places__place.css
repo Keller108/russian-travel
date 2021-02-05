@@ -1,5 +1,4 @@
 .places__place {
-    width: 90%;
     max-width: 984px;
     display: -webkit-box;
     display: -ms-flex;
@@ -9,6 +8,10 @@
     justify-content: space-between;
     margin: 0 auto;
     margin-bottom: 80px;
+}
+
+.places__place:last-of-type {
+    margin-bottom: 0;
 }
 
 @media (max-width: 1024px) {
@@ -21,5 +24,11 @@
     .places__place {
         max-width: 720px;
         margin-bottom: 73px;
+    }
+}
+
+@media (max-width: 568px) {
+    .places__place {
+        margin-bottom: 50px;
     }
 }

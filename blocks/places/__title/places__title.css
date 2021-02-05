@@ -8,7 +8,7 @@
     padding: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 980px) {
     .places__title {
         max-width: 340px;
         font-size: 42px;
@@ -16,9 +16,9 @@
     }
 }
 
-@media (min-width: 320px) and (max-width: 740px) {
+@media (max-width: 768px) {
     .places__title {
-        max-width: 100%;
+        width: 100%;
         font-size: 32px;
         line-height: 35px;
         margin-bottom: 32px;
