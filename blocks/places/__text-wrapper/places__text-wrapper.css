@@ -1,20 +1,13 @@
 .places__text-wrapper {
-    width: calc(50%-8px);
+    width: calc(50% - 8px);
     display: -webkit-box;
     display: -ms-flex;
     display: flex;
     flex-direction: column;
-    margin: 0 auto;
     padding-left: 40px;
 }
 
-@media (min-width: 768px) {
-    .places__text-wrapper {
-        padding-left: 30px;
-    }
-}
-
-@media (max-width: 740px) {
+@media (max-width: 767px) {
     .places__text-wrapper {
         width: 90%;
         padding-left: 0;
